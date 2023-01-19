@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(-45deg, #ddcbcb, #5f6ae2);
+  font-family: "Hanken Grotesk", sans-serif;
+}
