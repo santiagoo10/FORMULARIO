@@ -10,9 +10,7 @@ Vale aclarar, que es un proyecto creado con la itención de demostrar conocimien
 
 ## Sobre el proyecto
 
-A través del siguiente link puedes acceder al proyecto, realizar un registro, y, luego visualizar los datos: `_ _ _ _ _`
-
-Las siguientes instrucciones te permitirán obtener una copaia del proyecto en tu computadora local.
+Las siguientes instrucciones te permitirán obtener una copaia del proyecto en tu computadora y poder ejecutarlo.
 
 ### Requisitos
 
@@ -22,7 +20,7 @@ De ya tener Node.js instalado, en tu terminarl, puedes visualizar la versión qu
 
 ### Instalación
 
-A partir del siguiente link `_ _ _ _ _` lo copias, y en tu terminal escribes: `git clone 'link copiado'`. Esto creará un copia exacta del repositorio en tu computadora.
+A partir del siguiente link `https://github.com/nicopieroa/FORMULARIO` lo copias, y en tu terminal escribes: `git clone 'link copiado'`. Esto creará un copia exacta del repositorio en tu computadora.
 
 Luego de esto, en la terminal, escribes `npm i`, para poder obtener todas las dependencias utilizadas en el proyecto.
 
