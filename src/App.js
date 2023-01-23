@@ -4,7 +4,7 @@ import dataBase from "./db.json";
 import { Form } from "./components/form/form";
 import { UserData } from "./components/userData/userData";
 import {
-  createBrowserRouter,
+  createHashRouter,
   createRoutesFromElements,
   Route,
   RouterProvider,
@@ -31,7 +31,7 @@ const App = () => {
     setUserInformation(info);
   };
 
-  const router = createBrowserRouter(
+  const router = createHashRouter(
     createRoutesFromElements(
       <Route>
         <Route
