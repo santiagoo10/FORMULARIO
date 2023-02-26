@@ -1,4 +1,4 @@
-# FORMULARIO
+# Contact Form app
 
 Este proyecto consiste en un simple formulario de registro de usuarios en una base de datos. Donde se solicitan datos como, el nombre completo, el email, fecha de nacimiento, país de origen, y aceptar los términos y condiciones; estos son necesarios para poder enviar la informacion.
 
