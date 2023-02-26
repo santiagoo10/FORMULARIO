@@ -7,11 +7,9 @@ export const Email = ({ emailData, onChange }) => {
     const emailValidation = (e) => {
         const emailReg = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
 
-        if (!emailReg.test(e.target.value)) {
-            setErrorMsg('Formato de email invalido')
-        } else {
-            setErrorMsg('')
-        }
+        const errorMessage = (!emailReg.test(e.target.value)) ? 'Formato de email invalido' : ''
+        setErrorMsg(errorMessage)
+     
     };
 
     return (
