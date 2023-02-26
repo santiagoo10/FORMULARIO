@@ -48,7 +48,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>FORMULARIO</h1>
+      <h1>Contact Form</h1>
       <RouterProvider router={router} />
     </div>
   );
