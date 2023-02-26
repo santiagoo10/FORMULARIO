@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-contact-form/static/css/main.0ba39a0c.css",
-    "main.js": "/react-contact-form/static/js/main.ef19e0bd.js",
+    "main.js": "/react-contact-form/static/js/main.a5001387.js",
     "index.html": "/react-contact-form/index.html",
     "main.0ba39a0c.css.map": "/react-contact-form/static/css/main.0ba39a0c.css.map",
-    "main.ef19e0bd.js.map": "/react-contact-form/static/js/main.ef19e0bd.js.map"
+    "main.a5001387.js.map": "/react-contact-form/static/js/main.a5001387.js.map"
   },
   "entrypoints": [
     "static/css/main.0ba39a0c.css",
-    "static/js/main.ef19e0bd.js"
+    "static/js/main.a5001387.js"
   ]
 }
